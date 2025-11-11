@@ -1,0 +1,8 @@
+com\example\rag\controller\DocumentController.class
+com\example\rag\RagApplication.class
+com\example\rag\config\WebSocketConfig.class
+com\example\rag\config\WebConfig.class
+com\example\rag\config\AppConfig.class
+com\example\rag\config\WebSocketConfig$1.class
+com\example\rag\service\DocumentService.class
+com\example\rag\controller\HealthController.class
