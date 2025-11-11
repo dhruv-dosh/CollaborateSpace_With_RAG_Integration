@@ -141,7 +141,7 @@ Ensure the following are installed:
 #### 1️⃣ Clone the Repository
 
 ```bash
-git clone [https://github.com/dhruv-dosh/CollaborateSpace_With_RAG_Integration](https://github.com/dhruv-dosh/CollaborateSpace_With_RAG_Integration)
+git clone https://github.com/dhruv-dosh/CollaborateSpace_With_RAG_Integration
 cd CSpacebackend
 ```
 
